@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="BUG TEST VP HYPERLINK JA text1" uuid="6B3321FB203C2B48BAA1DDFD646C3658" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>
